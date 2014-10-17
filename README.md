@@ -1,8 +1,6 @@
 TinyFem
 =======
-this project's main target is to solve a special problem in mortor design.
-When we design a stator of motor, we need to make sure the parameter like thickness,the diameter and the number of holes. Different
-parameters will cause different reuslt. we need to design many times to make get a best arrangement of parameter for the best reuslt.
+this project's main target is to solve a special problem in motor design.
+When we design a stator of motor, we need to make sure the parameter like thickness,the diameter and the number of holes. Different parameters will cause different reuslts. we need to design many times to make get a best arrangement of parameters for the best reuslt.
 
-But now, we can use this software to simplify our workflow, and make you pay much more attention on the design rather than on modify
-paramerters again and again.
+But now, you can use TinyFem to simplify your workflow, and make you pay much more attention to the design itself rather than on modify paramerters again and again.
